@@ -1,0 +1,13 @@
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\bin\Debug\netcoreapp3.1\NoFactoryDemo.exe
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\bin\Debug\netcoreapp3.1\NoFactoryDemo.deps.json
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\bin\Debug\netcoreapp3.1\NoFactoryDemo.runtimeconfig.json
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\bin\Debug\netcoreapp3.1\NoFactoryDemo.runtimeconfig.dev.json
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\bin\Debug\netcoreapp3.1\NoFactoryDemo.dll
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\bin\Debug\netcoreapp3.1\NoFactoryDemo.pdb
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\obj\Debug\netcoreapp3.1\NoFactoryDemo.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\obj\Debug\netcoreapp3.1\NoFactoryDemo.AssemblyInfoInputs.cache
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\obj\Debug\netcoreapp3.1\NoFactoryDemo.AssemblyInfo.cs
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\obj\Debug\netcoreapp3.1\NoFactoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\obj\Debug\netcoreapp3.1\NoFactoryDemo.dll
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\obj\Debug\netcoreapp3.1\NoFactoryDemo.pdb
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\NoFactoryDemo\obj\Debug\netcoreapp3.1\NoFactoryDemo.genruntimeconfig.cache

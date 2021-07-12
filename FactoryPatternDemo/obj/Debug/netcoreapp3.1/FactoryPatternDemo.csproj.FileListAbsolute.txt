@@ -1,0 +1,13 @@
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.AssemblyInfoInputs.cache
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.AssemblyInfo.cs
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.exe
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.deps.json
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.runtimeconfig.json
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.runtimeconfig.dev.json
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.dll
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\bin\Debug\netcoreapp3.1\FactoryPatternDemo.pdb
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.dll
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.pdb
+C:\Users\Jose\Documents\Universidad\URL 2021\Interciclo\Análisis y Diseño II\Tareas\FactoryPatternDemo\obj\Debug\netcoreapp3.1\FactoryPatternDemo.genruntimeconfig.cache
